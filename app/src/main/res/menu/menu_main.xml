@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.udb.dsm.helpets.MainActivity">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/add_icon"
+        android:orderInCategory="1"
+        android:title="@string/action_create"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_icon"
+        android:orderInCategory="1"
+        android:title="@string/action_search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_notifications"
+        android:icon="@drawable/notifications_icon"
+        android:orderInCategory="1"
+        android:title="@string/action_notifications"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_user"
+        android:title="@string/action_user"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/action_logout"
+        app:showAsAction="never" />
+
+</menu>

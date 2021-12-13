@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HelPets</string>
+
+    <!-- Strings used for menu buttons -->
+
+    <string name="action_notifications">Notificaciones</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="action_return">Regresar</string>
+    <string name="action_user">Perfil de usuario</string>
+    <string name="action_edit_user">Editar usuario</string>
+    <string name="action_search">Buscar publicación</string>
+    <string name="action_create">Crear publicación</string>
+
+    <!--  -->
+    <string name="greet">BIENVENIDO</string>
+    <string name="font">roboto</string>
+
+    <!-- Log In Strings -->
+    <string name="comment">Agregar un comentario </string>
+    <string name="user">Usuario </string>
+    <string name="password">Contraseña </string>
+    <string name="login">Iniciar Sesion</string>
+
+</resources>
